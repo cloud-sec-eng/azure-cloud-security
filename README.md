@@ -11,3 +11,7 @@ Concept → Build → Inspect → Break → Troubleshoot → Secure → Automate
 ## Phase 0 — Engineering Lab Setup
 
 Building and understanding the local engineering environment before deploying Azure resources.
+
+## Security Notes
+
+All infrastructure changes should be inspected before deployment, with attention to exposure, authentication, authorization, secrets, encryption, and logging.

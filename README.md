@@ -7,3 +7,7 @@ DevSecOps, and cloud security engineering.
 ## Learning Method
 
 Concept → Build → Inspect → Break → Troubleshoot → Secure → Automate → Document
+
+## Phase 0 — Engineering Lab Setup
+
+Building and understanding the local engineering environment before deploying Azure resources.

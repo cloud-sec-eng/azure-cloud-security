@@ -15,3 +15,7 @@ Building and understanding the local engineering environment before deploying Az
 ## Security Notes
 
 All infrastructure changes should be inspected before deployment, with attention to exposure, authentication, authorization, secrets, encryption, and logging.
+
+## Collaboration Lab
+
+This change simulates work pushed from another engineering workstation.
